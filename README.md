@@ -14,6 +14,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<p align="center"><a href="http://www.bootstrapzero.com/bootstrap-template/landing-zero">Admin LTE</p>
+<p align="center"><a href="https://www.bootstrapzero.com/bootstrap-template/landing-zero-free-bootstrap-theme">Landing Zero</p>
+
 ## About GoDel
 Go Delivery (GoDel) adalah aplikasi pengelolaan jasa antar dan belanja di lingkungan kecil, dibuat dengan konsep sederhana dengat tujuan menghubungkan pihak konsumen yang ingin berbejanja, toko yang menjual barang dan kurir yang mengantar belenjaan.
 
@@ -26,6 +29,7 @@ GoDel diinisiasi oleh komunitas belanja online di Majalengka dan disupport secar
 - <a href="https://github.com/efreethinx">Dede Iyan Supardi</a> : efreethinx@gmail.com
 - <a href="https://github.com/IlmiMubarok21">Ilmi Nur Aziz Aqil Mubarok</a> : ilmimubarok21@gmail.com
 - <a href="https://github.com/VernandiaEkristaPramesti">Vernandia Ekrista Pramesti</a> : vekristapramesti@gmail.com
+- <a href="https://github.com/azkaainurridho514">Azka Ainurridho</a> : azkaainurridho514@gmail.com
 
 ## License
 
