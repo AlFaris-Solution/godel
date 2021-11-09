@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="/public/godel/logo/godel2.png" width="350" title="hover text">
-  <img src="/public/godel/logo/godel1.png" width="350" alt="accessibility text">
+  <img src="/public/godel/logo/godel1.png" width="350">
 </p>
 
 <h1 align="center"> GoDel </h1>
