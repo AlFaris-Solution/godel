@@ -1,4 +1,7 @@
-<p align="center"><a href="#" target="_blank"><img src="#" width="400"></a></p>
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="/public/godel/logo/godel1.png" width="350" alt="accessibility text">
+</p>
 
 <h1 align="center"> GoDel </h1>
 <p align="center">dibuat menggunakan Laravel Framework 8</p>
