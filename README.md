@@ -21,9 +21,9 @@ GoDel di inisiasi oleh komunitas beljanja online di Majalengka dan disupport sec
 
 ## Contributor
 
-<a href="https://github.com/efreethinx">Dede Iyan Supardi</a> : efreethinx@gmail.com
-<a href="https://github.com/IlmiMubarok21">Ilmi Nur Aziz Aqil Mubarok</a> : ilmimubarok21@gmail.com
-<a href="https://github.com/VernandiaEkristaPramesti">Vernandia Ekrista Pramesti</a> : vekristapramesti@gmail.com
+- <a href="https://github.com/efreethinx">Dede Iyan Supardi</a> : efreethinx@gmail.com
+- <a href="https://github.com/IlmiMubarok21">Ilmi Nur Aziz Aqil Mubarok</a> : ilmimubarok21@gmail.com
+- <a href="https://github.com/VernandiaEkristaPramesti">Vernandia Ekrista Pramesti</a> : vekristapramesti@gmail.com
 
 ## License
 
