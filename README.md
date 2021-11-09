@@ -30,4 +30,14 @@ GoDel diinisiasi oleh komunitas belanja online di Majalengka dan disupport secar
 - The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 - GoDel is open-sourced on development only.
 
+## Recomended Development Tools
+
+- Linux Evnironment (Ubuntu)
+- Atom Text Editor
+- Chrome Web Browser
+- Apache2 Web Server
+- MariaDB RDBMS
+- Composer 2 or later
+- PHP 7.4 or later
+
 # GoDel
