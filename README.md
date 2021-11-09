@@ -17,7 +17,7 @@ Go Delivery (GoDel) adalah aplikasi pengelolaan jasa antar dan belanja di lingku
 
 ## GoDel Sponsors
 
-GoDel di inisiasi oleh komunitas beljanja online di Majalengka dan disupport secara penuh oleh Al-Faris Solution, sebuah startup software house yang sedang berkembang di Majalengka.
+GoDel diinisiasi oleh komunitas belanja online di Majalengka dan disupport secara penuh oleh Al-Faris Solution, sebuah startup software house yang sedang berkembang di Majalengka.
 
 ## Contributor
 
@@ -27,7 +27,7 @@ GoDel di inisiasi oleh komunitas beljanja online di Majalengka dan disupport sec
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-GoDel is open-sourced on development only.
+- The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- GoDel is open-sourced on development only.
 
 # GoDel
